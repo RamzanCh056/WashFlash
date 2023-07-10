@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45237785687",
+    "project_id": "wash-flash-6cb5f",
+    "storage_bucket": "wash-flash-6cb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45237785687:android:d003b9cf3c75675fbd7f12",
+        "android_client_info": {
+          "package_name": "com.example.washflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45237785687-8l2earrth9bd0d1gsi73a2oknmgdqbrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVlSEnLZz-pcGfTScp1ZHwqyQsj8Q3rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45237785687-8l2earrth9bd0d1gsi73a2oknmgdqbrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
